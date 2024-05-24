@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Human Resources",
+        "description": "Responsible for recruiting, screening, interviewing and placing workers.",
+        "contact": {
+            "email": "EduardoM.Pacheco@company.com",
+            "phone": "09102068923"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Marketing",
+        "description": "Focuses on promoting the business and mission of an organization.",
+        "contact": {
+            "email": "JustineAranas@company.com",
+            "phone": "09102068925"
+        }
+    },
+    {
+        "id": 3,
+        "name": "IT Department",
+        "description": "Responsible for the implementation and maintenance of the company's technology infrastructure.",
+        "contact": {
+            "email": "Joshua@company.com",
+            "phone": "09102068926"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Finance",
+        "description": "Manages the company's finances, including budgeting, forecasting, and investment planning.",
+        "contact": {
+            "email": "InelynJoy@company.com",
+            "phone": "09102068927"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Research and Development",
+        "description": "Focuses on developing new products and improving existing ones.",
+        "contact": {
+            "email": "Ivan@company.com",
+            "phone": "09102068928"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Customer Support",
+        "description": "Provides assistance and support to the company's customers regarding their inquiries and issues.",
+        "contact": {
+            "email": "TrudyIglesia@company.com",
+            "phone": "09102068929"
+        }
+    }
+]

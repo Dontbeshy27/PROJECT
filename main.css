@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+h1 {
+  text-align: center;
+  color: #0dbfd1;
+  text-transform: uppercase;
+  margin-top: 20px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+a {
+  text-decoration: none;
+  color: #007BFF;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #0dbfd1;
+  padding: 20px 0;
+  z-index: 1000;
+}
+
+.header-content {
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+header .link {
+  margin-top: 10px;
+}
+
+header .link h2 {
+  margin: 10px 0;
+  font-size: 1.5em;
+}
+
+header nav a {
+  margin: 0 15px;
+  color: #0dbfd1;
+  font-size: 1em;
+}
+
+header #account {
+  margin-top: 10px;
+}
+
+header #account a {
+  color: #0dbfd1;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+footer a {
+  color: #0dbfd1;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
+  
